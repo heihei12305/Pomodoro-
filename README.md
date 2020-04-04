@@ -9,4 +9,13 @@
 `npm start`
 
 ### 效果预览
+
 ![](/asset/electron.gif)
+
+把时间改短点
+
+![](/asset/electron-2.gif)
+
+更有长休息哦！
+
+![](/asset/electron-longRest.png)
